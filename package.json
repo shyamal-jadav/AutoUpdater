@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/shyamal-jadav/AutoUpdater#readme",
   "devDependencies": {
-    "electron": "^9.4.0",
+    "electron": "^11.5.0",
     "electron-builder": "^22.5.1"
   },
   "dependencies": {
