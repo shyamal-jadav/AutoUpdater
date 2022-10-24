@@ -1,7 +1,9 @@
 # AutoUpdater
 auto update electron application @client side
 
-## Contribution Guidelines
+---- ---- ---- ---- ---- ---- ----
+
+# Contribution Guidelines
 1. Fork the repo
 2. Clone your local repo
 3. Make changes locally
